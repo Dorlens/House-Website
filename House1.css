@@ -1,0 +1,83 @@
+#pageName
+{
+    
+   margin-left: 40%;
+   width: 300px;
+   left: 40%;
+   top: 1%;
+   transform: translateX(-50);
+  
+}
+
+#HomePage-SearchBox
+{
+    width: 80%;
+    max-width: 500px;
+    margin: 0 auto;
+    height:10%;
+    border-radius: 10px;
+    font-size: 12px;
+    text-align: center;
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top:  2%;
+    position: relative;
+}
+#searchButton
+{
+    padding: 10px 20px;
+}
+
+
+
+
+#Header
+{
+    display: inline-block;
+   position: relative;
+    
+}
+.House_Picture img
+{
+    width: 700px;
+    margin-left: 28%;
+}
+
+#HouseAddress
+{
+    display: flex;
+    justify-content: left;
+}
+#HouseAddress
+{
+    font-size: 15px;
+    margin-left: 28%;
+
+}
+
+.House_Details
+{
+    display: flex;
+    justify-content: left;
+    
+}
+
+.House_Details
+{
+    margin-left:28%;
+    margin-top: 30px;
+}
+
+#set_Appointment
+{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 35%;
+    width: 500px;
+    border-color: #2D6CCB;
+    background-color: #2D6CCB;
+    color: white;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}

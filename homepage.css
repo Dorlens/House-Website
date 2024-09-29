@@ -1,0 +1,398 @@
+
+#pageName
+{
+    
+   margin-left: 40%;
+   width: 300px;
+   left: 40%;
+   top: 1%;
+   transform: translateX(-50);
+  
+}
+
+#HomePage-SearchBox
+{
+    width: 80%;
+    max-width: 500px;
+    margin: 0 auto;
+    height:10%;
+    border-radius: 10px;
+    font-size: 12px;
+    text-align: center;
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top:  2%;
+    position: relative;
+}
+#searchButton
+{
+    padding: 10px 20px;
+}
+.bi-search
+{
+    
+    
+  
+   padding:10px;
+   
+}
+
+#HomPage-Description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+#House1{
+    position: relative;
+   margin-top: 30px;
+    margin-left: 10%;
+   min-width: 200px;
+   max-width: 400px ;
+   
+}
+.house1
+{
+    
+    position:relative;
+    display: inline-block;
+    
+    
+}
+.house1 img
+{
+    display: block;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+.House1-miles-on-pic
+{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 10px;
+   border: solid;
+   border-radius: 15px;
+   background-color: #5B089BCC;
+   border: #5B089BCC;
+   color: white;
+   padding: 5px;
+   width: 15%;
+   margin-left: 50px;
+   top:20px;
+}
+.house1ViewDetailButton
+{
+
+   position: absolute;
+   margin-left: 200px;
+   bottom:100px;
+   
+   
+
+}
+#house1ViewDetail
+{
+    
+    border: solid;
+   border-radius: 10px;
+   color:rgb(255, 255, 255);
+   background-color: #4384E5;
+   border-color: #4384E5;
+   
+}
+
+
+ 
+ .House1Address
+ {
+
+    display: flex;
+    justify-content: center;
+    
+ }
+
+.House1-Address
+{
+    
+    font-size: 15px;
+    margin-right: 75px;
+
+    
+}
+#House1ViewDetails
+{
+   
+    color: white;
+    border-color:#4384E5;
+    background-color:#4384E5;
+    
+    
+    
+}
+.House-First-Row-Algin
+{
+    display: flex;
+    justify-content: space-between;
+}
+.House1-Address
+{
+    margin-left: 28px;
+    
+}
+.House2-Address
+{
+    
+    
+    font-size: 15px;
+    margin-right:70px;
+}
+.House3-Address
+{
+    font-size: 15px;
+    margin-right: 255px;
+   
+    
+}
+
+ .HouseRowAddress
+{
+    display: flex;
+    justify-content: space-between;
+
+} 
+
+.House2ViewDetailButton
+{
+    position: absolute;
+   margin-left: 718px;
+   bottom:100px;
+   
+}
+
+#house2ViewDetail
+{
+    
+    border: solid;
+   border-radius: 10px;
+   color:rgb(255, 255, 255);
+   background-color: #4384E5;
+   border-color: #4384E5;
+   
+} 
+
+.House2-miles-on-pic
+{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 10px;
+   border: solid;
+   border-radius: 15px;
+   background-color: #5B089BCC;
+   border: #5B089BCC;
+   color: white;
+   padding: 5px;
+   width: 15%;
+   margin-left: 40%;
+   top: 6%;
+   
+}
+#House3
+{
+    width: 450px;
+}
+
+.House3-miles-on-pic
+{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 10px;
+   border: solid;
+   border-radius: 15px;
+   background-color: #5B089BCC;
+   border: #5B089BCC;
+   color: white;
+   padding: 5px;
+   width: 15%;
+   margin-left: 76%;
+   top:6%;
+}
+.House3ViewDetailButton
+{
+    position: absolute;
+    margin-left: 500px;
+    bottom:10px;
+    width: 200px;
+    
+}
+
+#house3ViewDetail
+{
+    border: solid;
+   border-radius: 10px;
+   color:rgb(255, 255, 255);
+   background-color: #4384E5;
+   border-color: #4384E5;
+   
+}
+
+
+.HouseRow2
+{
+    
+    position:relative;
+    display: inline-block;
+    
+    
+}
+.HouseRow2 img
+{
+    display: block;
+    margin-left: 30px;
+    
+
+}
+.HouseRow2Address
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+ .House6-Address
+{
+    font-size: 15px;
+    margin-right: 300px;
+} 
+.House4-Address
+{
+    font-size: 15px;
+    margin-left:30px;
+    top: 50px;
+    margin-bottom: 100px;
+}
+.House5-Address
+{
+    font-size: 15px;
+    margin-right:1px;
+  
+}
+.House4ViewDetailButton
+{
+    position: absolute;
+    margin-left: 200px;
+    top:320px;
+    width: 200px;
+}
+.House5ViewDetailButton
+{
+    position: absolute;
+    margin-left: 540px;
+    top:4px;
+    width: 200px
+}
+.House6ViewDetailButton
+{
+    position: absolute;
+    margin-left: 520%;
+    top:4px;
+    width: 200px
+}
+#house6ViewDetail
+{
+    border: solid;
+   border-radius: 10px;
+   color:rgb(255, 255, 255);
+   background-color: #4384E5;
+   border-color: #4384E5;
+   
+}
+ #house5ViewDetail
+ {
+    border: solid;
+   border-radius: 10px;
+   color:rgb(255, 255, 255);
+   background-color: #4384E5;
+   border-color: #4384E5;
+   
+ }
+#house4ViewDetail
+{
+    border: solid;
+   border-radius: 10px;
+   color:rgb(255, 255, 255);
+   background-color: #4384E5;
+   border-color: #4384E5;
+   
+}
+.House4-miles-on-pic
+{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 10px;
+   border: solid;
+   border-radius: 15px;
+   background-color: #5B089BCC;
+   border: #5B089BCC;
+   color: white;
+   padding: 5px;
+   width: 15%;
+   top:30px;
+   margin-left: 80px;
+   
+}
+.House5-miles-on-pic
+{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 10px;
+   border: solid;
+   border-radius: 15px;
+   background-color: #5B089BCC;
+   border: #5B089BCC;
+   color: white;
+   padding: 5px;
+   width: 15%;
+   margin-left: 600px;
+   top:30px;
+}
+.House6-miles-on-pic
+{
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 10px;
+   border: solid;
+   border-radius: 15px;
+   background-color: #5B089BCC;
+   border: #5B089BCC;
+   color: white;
+   padding: 5px;
+   width: 15%;
+   margin-left: 70% ;
+   top: 30px;;
+}
+.SecondRowAlign
+{
+    display: flex;
+    justify-content: space-between;
+}
+#house4
+{
+    width: 470px;
+    height: 380px;
+}
+#house5
+{
+    width: 470px;
+    height: 380px;
+
+}
+#house6
+{
+    width: 470px;
+    height: 380px;
+    margin-right: 40px;
+}
